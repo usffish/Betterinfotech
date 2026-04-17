@@ -1,0 +1,6 @@
+An agent that has my secure personal vault of private data documents of my family - credit cards, bank accounts, passports, ssn, passport pictures, OCI, degree, resume, Frequent flier numbers, Global Entry/TSA ID, and so on. The Agent lives as a browser plug-in that is invoked / or auto-detects and provides personal details accurately when buying flight tickets, job applications, hotel bookings , new passport applications, OCI renewals and more....I would be willing to pay a monthly subscription fee since it would greatly save me time. Also group feature to book groups/family.
+
+What should it take in and what should it give back?	inputs - text file, spreadsheets, password protected vaults, password managers as input, folders with images of important documents.
+
+outputs - understand forms in popular apps, browsers and be able to match the inputs to the right outputs and auto-fill the details or prompt user with possible suggestions.
+What tools or apps should it connect with?	Should work with popular flight booking sites and apps, expedia/google flights, direct airline sites. Hotels, car rentals, visa applications, US passport renewals, OCI applications/updates anywhere where a significant form is required to be filled that would take 30+ minutes.
